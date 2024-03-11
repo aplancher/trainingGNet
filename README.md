@@ -4,11 +4,11 @@
 This repository contains code for training an autoencoder on the Abalone dataset. The autoencoder is trained using MATLAB's 'trainAutoencoder' function, with a specified number of hidden units and maximum epochs.
 
 ### Usage
-[To use this code:
+To use this code:
 1. Ensure you have MATLAB installed on your system
 2. Clone this respostitory
-3. Open MATLAB and navigate to cloned directory
-4. Run the provided MATLAB files' script.]
+3. Open MATLAB and navigate to the cloned directory
+4. Run the provided MATLAB files' script.
 
 ### Description
 This repo contains MATLAB scripts for:
